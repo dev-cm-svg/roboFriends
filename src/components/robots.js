@@ -1,0 +1,63 @@
+export const robots=[
+{
+	id:1,
+	name:'lsf',
+	username:'Bret',
+	email:'sfse@fes.com'
+},
+{
+	id:2,
+	name:'Asf',
+	username:'Cret',
+	email:'sfse@fes.com'
+},
+{
+	id:3,
+	name:'Bsf',
+	username:'Dret',
+	email:'sfse@fes.com'
+},
+{
+	id:4,
+	name:'Csf',
+	username:'Eret',
+	email:'sfse@fes.com'
+},
+{
+	id:5,
+	name:'lsf',
+	username:'Bret',
+	email:'sfse@fes.com'
+},
+{
+	id:6,
+	name:'lsf',
+	username:'Bret',
+	email:'sfse@fes.com'
+},
+{
+	id:7,
+	name:'Asf',
+	username:'Cret',
+	email:'sfse@fes.com'
+},
+{
+	id:8,
+	name:'Bsf',
+	username:'Dret',
+	email:'sfse@fes.com'
+},
+{
+	id:9,
+	name:'Csf',
+	username:'Eret',
+	email:'sfse@fes.com'
+},
+{
+	id:10,
+	name:'lsf',
+	username:'Bret',
+	email:'sfse@fes.com'
+},
+];
+export default robots;
